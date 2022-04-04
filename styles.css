@@ -1,0 +1,42 @@
+body { 
+    font-family: 'Outfit', sans-serif;
+    background-color: #D5E1EF; 
+}
+
+.main-box { 
+    background-color: white; 
+    border-radius: 20px;
+    width: 180px;
+    padding: 10px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px; 
+    border-radius: 12px;
+
+}
+
+.heading{ 
+    font-weight: 700; 
+    font-size: 15px;
+    text-align: center;
+}
+
+.paragraph {  
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution {
+    font-size: 12px;
+    text-align: center;
+    padding: 10px; 
+}
+
